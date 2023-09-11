@@ -1,4 +1,4 @@
-]// components/AboutScreen.js
+
 import React from 'react';
 import { View, Text } from 'react-native';
 import { useSelector } from 'react-redux';
