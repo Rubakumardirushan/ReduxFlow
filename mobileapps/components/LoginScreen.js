@@ -1,5 +1,5 @@
 // components/LoginScreen.js
-import React, { useState } from 'react';
+import React, { useState } from 'react'
 import { View, Text, TextInput, Button, Alert } from 'react-native';
 import { useDispatch, useSelector } from 'react-redux';
 import { login } from '../actions/authActions';
